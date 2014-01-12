@@ -1,6 +1,7 @@
 
 # Openlectures 3.0
 Website: [openlectures](http://www.openlectures.org/)
+
 ![OL](http://www.openlectures.org/assets/logo-ef3ea6535310b8a5a76808f1a5b68e27.png)
 
 [openlectures](http://www.openlectures.org/) provides free online lectures based on the Singapore syllabus. It was founded in 2011 by Linan Qiu, a student who strongly believed in making quality education available for anyone who wants to learn.
@@ -8,6 +9,7 @@ Website: [openlectures](http://www.openlectures.org/)
 This is the code base for the openlectures website. As with our lectures, we intend to make our code free and accessible.
 
 Web Stack:
+
 1. [Angular.js](http://angularjs.org/) for our front-end Javascript framework
 
 2. [Ruby on Rails](http://rubyonrails.org/) for our back-end API
