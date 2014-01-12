@@ -12,11 +12,16 @@ gem 'jquery-rails'
 
 gem 'jbuilder', '~> 1.2'
 gem 'unicorn'
+gem 'unicorn-rails'
 
 group :development, :test do
   gem 'factory_girl_rails'
 end
 
+group :development do
+  gem 'guard-rails'
+  gem 'guard-minitest'
+end
 # Use Capistrano for deployment
 # gem 'capistrano', group: :development
 
