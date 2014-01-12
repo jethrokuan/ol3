@@ -22,8 +22,3 @@ group :development do
   gem 'guard-rails'
   gem 'guard-minitest'
 end
-# Use Capistrano for deployment
-# gem 'capistrano', group: :development
-
-# Use debugger
-# gem 'debugger', group: [:development, :test]
