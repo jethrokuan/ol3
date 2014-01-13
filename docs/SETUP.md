@@ -39,13 +39,13 @@
 ) or [SAFARI](http://download.livereload.com/2.0.9/LiveReload-2.0.9.safariextz
 ) extension
 
-10. Start coding!
+11. Start coding!
 
     `mux start openlectures`
 
-11. The recommended setup configuration will look like this:
+12. The recommended setup configuration will look like this:
 
-![Screenshot of Workspace](http://i.imgur.com/2aaRZp2.png?1)
+![Screenshot of Workspace](http://i.imgur.com/CXPFY1K.png?1?6089)
 
 #Linux
 
