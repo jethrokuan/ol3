@@ -45,7 +45,7 @@
 
 11. The recommended setup configuration will look like this:
 
-![Screenshot of Workspace](http://imgur.com/2aaRZp2)
+![Screenshot of Workspace](http://i.imgur.com/2aaRZp2.png?1)
 
 #Linux
 
